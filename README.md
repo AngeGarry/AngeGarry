@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AngeGarry
-- 👀 I’m interested in Web Developpement
-- 🌱 I’m currently learning HTML, CSS, PHP, JS
-- 💞️ I’m looking to collaborate on some Web Project
+- 👀 I’m interested in Developpement
+- 🌱 I’m currently Unity, C#
+- 💞️ I’m looking to collaborate on some Gaming Project
 - 📫 How to reach me angelaugarrielbellegarde@gmail.com
 
 <!---
