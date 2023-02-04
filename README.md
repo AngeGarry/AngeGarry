@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AngeGarry
 - 👀 I’m interested in Developpement
-- 🌱 I’m currently Unity, C#
+- 🌱 I’m currently learning Unity, C#
 - 💞️ I’m looking to collaborate on some Gaming Project
 - 📫 How to reach me angelaugarrielbellegarde@gmail.com
 
